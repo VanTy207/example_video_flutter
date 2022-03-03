@@ -1,4 +1,0 @@
-#Wed Jan 19 14:51:17 ICT 2022
-base.0=/Volumes/DATA/TMP/example/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
