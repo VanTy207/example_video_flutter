@@ -4,7 +4,7 @@
             "outputFile": "/Volumes/DATA/TMP/example/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/tynguyen/.gradle/caches/transforms-2/files-2.1/014d0d28a24027af3c075df71bb4d312/media-1.2.1/res/values-v24/values-v24.xml",
+                    "source": "/Users/tynguyen/.gradle/caches/transforms-3/c5a103416928c3b5327998f57605d34f/transformed/media-1.3.1/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

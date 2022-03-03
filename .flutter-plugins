@@ -1,9 +1,24 @@
 # This is a generated file; do not edit or check into version control.
-better_player=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/better_player-0.0.77/
+audio_session=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/audio_session-0.1.6+1/
+auto_orientation=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/auto_orientation-2.1.0/
+better_player=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/better_player-0.0.79/
+just_audio=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/just_audio-0.9.18/
+just_audio_web=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/just_audio_web-0.4.2/
 path_provider=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.5/
 path_provider_linux=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.0/
 path_provider_macos=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.2/
 path_provider_windows=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.3/
+sqflite=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.0+4/
+url_launcher=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-6.0.13/
+url_launcher_linux=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_linux-2.0.2/
+url_launcher_macos=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-2.0.2/
+url_launcher_web=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-2.0.4/
+url_launcher_windows=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_windows-2.0.2/
+video_player=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/video_player-2.2.7/
+video_player_web=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_web-2.0.4/
 wakelock=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock-0.5.6/
 wakelock_macos=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock_macos-0.4.0/
 wakelock_web=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock_web-0.4.0/
+webview_flutter=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-2.3.1/
+webview_flutter_android=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_android-2.3.0/
+webview_flutter_wkwebview=/Users/tynguyen/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_wkwebview-2.4.0/

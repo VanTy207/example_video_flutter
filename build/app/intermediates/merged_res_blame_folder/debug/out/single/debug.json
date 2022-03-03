@@ -4,10 +4,6 @@
         "source": "/Volumes/DATA/TMP/example/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/Volumes/DATA/TMP/example/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
-        "source": "/Volumes/DATA/TMP/example/android/app/src/main/res/drawable/launch_background.xml"
-    },
-    {
         "merged": "/Volumes/DATA/TMP/example/build/app/intermediates/res/merged/debug/drawable-v21_launch_background.xml.flat",
         "source": "/Volumes/DATA/TMP/example/android/app/src/main/res/drawable-v21/launch_background.xml"
     },

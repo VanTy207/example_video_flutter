@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/DATA/TMP/example/build/audio_session/intermediates/res/merged/release/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "/Users/tynguyen/.gradle/caches/transforms-3/ae2db09562a5208d3e514b5cab950ecd/transformed/jetified-media2-session-1.1.3/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,161,259,360,487",
+                        "endColumns": "105,97,100,126,134",
+                        "endOffsets": "156,254,355,482,617"
+                    }
+                },
+                {
+                    "source": "/Users/tynguyen/.gradle/caches/transforms-3/885468558e2f570d67d05a2c08409ce1/transformed/core-1.6.0/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "622",
+                        "endColumns": "100",
+                        "endOffsets": "718"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Volumes/DATA/TMP/example/build/audio_session/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "/Users/tynguyen/.gradle/caches/transforms-3/ae2db09562a5208d3e514b5cab950ecd/transformed/jetified-media2-session-1.1.3/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,161,259,360,487",
+                        "endColumns": "105,97,100,126,134",
+                        "endOffsets": "156,254,355,482,617"
+                    }
+                },
+                {
+                    "source": "/Users/tynguyen/.gradle/caches/transforms-3/885468558e2f570d67d05a2c08409ce1/transformed/core-1.6.0/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "622",
+                        "endColumns": "100",
+                        "endOffsets": "718"
+                    }
+                }
+            ]
+        }
+    ]
+}

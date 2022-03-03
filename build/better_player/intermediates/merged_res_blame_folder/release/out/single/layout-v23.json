@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/layout-v23/exo_styled_player_control_rewind_button.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/layout-v23/exo_styled_player_control_rewind_button.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/layout-v23/exo_styled_player_control_ffwd_button.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/layout-v23/exo_styled_player_control_ffwd_button.xml"
+    }
+]

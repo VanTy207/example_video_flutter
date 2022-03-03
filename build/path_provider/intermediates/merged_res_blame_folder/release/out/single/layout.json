@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/path_provider/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/885468558e2f570d67d05a2c08409ce1/transformed/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/path_provider/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/885468558e2f570d67d05a2c08409ce1/transformed/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/path_provider/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/885468558e2f570d67d05a2c08409ce1/transformed/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/path_provider/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/885468558e2f570d67d05a2c08409ce1/transformed/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/path_provider/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/885468558e2f570d67d05a2c08409ce1/transformed/core-1.6.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/path_provider/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/885468558e2f570d67d05a2c08409ce1/transformed/core-1.6.0/res/layout/custom_dialog.xml"
+    }
+]

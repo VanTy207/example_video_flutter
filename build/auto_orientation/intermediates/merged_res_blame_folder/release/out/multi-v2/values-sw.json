@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/DATA/TMP/example/build/auto_orientation/intermediates/res/merged/release/values-sw/values-sw.xml",
+            "map": [
+                {
+                    "source": "/Users/tynguyen/.gradle/caches/transforms-3/885468558e2f570d67d05a2c08409ce1/transformed/core-1.6.0/res/values-sw/values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Volumes/DATA/TMP/example/build/auto_orientation/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw/values-sw.xml",
+            "map": [
+                {
+                    "source": "/Users/tynguyen/.gradle/caches/transforms-3/885468558e2f570d67d05a2c08409ce1/transformed/core-1.6.0/res/values-sw/values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

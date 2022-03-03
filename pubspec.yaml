@@ -28,11 +28,26 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  http: ^0.13.3
-  sizer: ^2.0.13
+  http: ^0.13.4
+  sizer: ^2.0.15
   flutter_screenutil: ^5.0.0+2
   animated_text_kit: ^4.2.1
-  better_player: 0.0.77
+  better_player: 0.0.79
+  provider: ^6.0.1
+  flutter_widget_from_html: ^0.7.0
+  flutter_html: ^2.1.5
+  responsive_sizer: ^3.0.4+4
+  extended_image: ^6.0.1
+  photo_view: ^0.13.0
+  auto_orientation: ^2.1.0
+  cached_network_image: 3.1.0
+  dismissible_page: ^0.6.4
+  visibility_detector: ^0.2.2
+  retrofit: ^3.0.0
+  logger: ^1.0.0
+  dio: ^4.0.0
+  syncfusion_flutter_sliders: ^19.4.38
+  syncfusion_flutter_charts: ^19.4.38
 
 dev_dependencies:
   flutter_test:
@@ -47,6 +62,61 @@ flutter:
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
+  fonts:
+    - family: Roboto-Black
+      fonts:
+        - asset: assets/fonts/Roboto-Black.ttf
+    - family: Roboto-BlackItalic
+      fonts:
+        - asset: assets/fonts/Roboto-BlackItalic.ttf
+    - family: Roboto-Bold
+      fonts:
+        - asset: assets/fonts/Roboto-Bold.ttf
+    - family: Roboto-BoldCondensed
+      fonts:
+        - asset: assets/fonts/Roboto-BoldCondensed.ttf
+    - family: Roboto-BoldCondensedItalic
+      fonts:
+        - asset: assets/fonts/Roboto-BoldCondensedItalic.ttf
+    - family: Roboto-BoldItalic
+      fonts:
+        - asset: assets/fonts/Roboto-BoldItalic.ttf
+    - family: Roboto-Condensed
+      fonts:
+        - asset: assets/fonts/Roboto-Condensed.ttf
+    - family: Roboto-CondensedItalic
+      fonts:
+        - asset: assets/fonts/Roboto-CondensedItalic.ttf
+    - family: Roboto-Italic
+      fonts:
+        - asset: assets/fonts/Roboto-Italic.ttf
+    - family: Roboto-Light
+      fonts:
+        - asset: assets/fonts/Roboto-Light.ttf
+    - family: Roboto-LightItalic
+      fonts:
+        - asset: assets/fonts/Roboto-LightItalic.ttf
+    - family: Roboto-Medium
+      fonts:
+        - asset: assets/fonts/Roboto-Medium.ttf
+    - family: Roboto-MediumItalic
+      fonts:
+        - asset: assets/fonts/Roboto-MediumItalic.ttf
+    - family: Roboto-Regular
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
+    - family: Roboto-Thin
+      fonts:
+        - asset: assets/fonts/Roboto-Thin.ttf
+    - family: Roboto-ThinItalic
+      fonts:
+        - asset: assets/fonts/Roboto-ThinItalic.ttf
+    - family: UVF-Youngblood
+      fonts:
+        - asset: assets/fonts/UVF-Youngblood.ttf
+    - family: SVN-COOKIE
+      fonts:
+        - asset: assets/fonts/SVN-COOKIE.ttf
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:

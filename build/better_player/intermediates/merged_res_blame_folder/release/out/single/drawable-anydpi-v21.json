@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_ic_audiotrack.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_ic_audiotrack.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_ic_settings.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_ic_settings.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_media_action_repeat_off.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/49048c9b4a552df5fb686d6830f79ae4/transformed/jetified-extension-mediasession-2.15.1/res/drawable-anydpi-v21/exo_media_action_repeat_off.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_media_action_repeat_all.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/49048c9b4a552df5fb686d6830f79ae4/transformed/jetified-extension-mediasession-2.15.1/res/drawable-anydpi-v21/exo_media_action_repeat_all.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_ic_speed.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_ic_speed.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_ic_skip_previous.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_ic_skip_previous.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_icon_shuffle_off.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_icon_shuffle_off.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_ic_fullscreen_exit.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_ic_fullscreen_exit.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_ic_skip_next.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_ic_skip_next.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_ic_subtitle_on.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_ic_subtitle_on.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_ic_play_circle_filled.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_ic_play_circle_filled.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_ic_subtitle_off.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_ic_subtitle_off.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_ic_check.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_ic_check.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_icon_rewind.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_icon_rewind.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_icon_shuffle_on.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_icon_shuffle_on.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_icon_pause.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_icon_pause.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_icon_fullscreen_enter.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_icon_fullscreen_enter.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_ic_fullscreen_enter.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_ic_fullscreen_enter.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_icon_fullscreen_exit.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_icon_fullscreen_exit.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_ic_chevron_left.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_ic_chevron_left.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_icon_previous.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_icon_previous.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_icon_repeat_all.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_icon_repeat_all.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_icon_repeat_one.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_icon_repeat_one.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_icon_next.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_icon_next.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_ic_chevron_right.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_ic_chevron_right.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_media_action_repeat_one.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/49048c9b4a552df5fb686d6830f79ae4/transformed/jetified-extension-mediasession-2.15.1/res/drawable-anydpi-v21/exo_media_action_repeat_one.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_icon_repeat_off.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_icon_repeat_off.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_ic_default_album_image.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_ic_default_album_image.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_icon_fastforward.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_icon_fastforward.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_ic_forward.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_ic_forward.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_edit_mode_logo.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_edit_mode_logo.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_icon_play.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_icon_play.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_ic_rewind.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_ic_rewind.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_ic_pause_circle_filled.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_ic_pause_circle_filled.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/TMP/example/build/better_player/intermediates/res/merged/release/drawable-anydpi-v21/exo_icon_stop.xml",
+        "source": "/Users/tynguyen/.gradle/caches/transforms-3/ac2da085685baa10e0cf363a7f56e6de/transformed/jetified-exoplayer-ui-2.15.1/res/drawable-anydpi-v21/exo_icon_stop.xml"
+    }
+]
