@@ -16,8 +16,11 @@ jobs:
 #    - run: flutter test
     - run: flutter build apk --debug --split-per-abi
     - run: flutter build apk --release --split-per-abi
-    - name: Create Release
-      uses: ncipollo/release-action@v1
+#    - name: Create Release
+#      uses: ncipollo/release-action@v1
+      with:
+        artifacts: "build/app/outputs/flutter-apk/*.apk"
+        token: ${{ secrets.EXAMPLE_VIDEO_FLUTTER }}
 
 #    - name: Create a Release APK
 #      uses: ncipollo/release-action@v1
